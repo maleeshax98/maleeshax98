@@ -1,3 +1,11 @@
+## Well, hello there 👋
+
+### Who am I?
+
+Hello, I'm Maleesha, a Full Stack Web Developer with a passion for crafting immersive digital experiences.
+My journey in the world of coding began with a single line and has since evolved into a symphony of technologies. 
+From front-end finesse to back-end wizardry, I thrive on the challenge of turning ideas into elegant, functional solutions.
+Join me as I explore the ever-expanding web, one commit at a time.
 
 ### My stats
 
